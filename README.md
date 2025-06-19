@@ -23,5 +23,6 @@ Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und 
 
 # Quellen
 
-[1] [DS/1195/VI, 2024](https://bvv-friedrichshain-kreuzberg.berlin.de/pi-r/do027.asp?DOLFDNR=390724&options=64)
-[2] [DS/19/16 367, 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16367.pdf)
+[1] [Mündliche Anfrage DS/1195/VI: Schulplätze auf dem SEZ-Gelände, 2024](https://bvv-friedrichshain-kreuzberg.berlin.de/pi-r/do027.asp?DOLFDNR=390724&options=64)
+
+[2] [Schriftliche Anfrage Nr. 19/16367: Neuer Glanz für alte Hütten? - Stillgelegte Schulgebäude in Berlin, 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16367.pdf)
