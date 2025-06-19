@@ -6,7 +6,9 @@ Es gibt in Berlin in regelmäßigen Abständen Bevölkerungsprognosen (insgesamt
 
 [Bevölkerungsprognose für Berlin und die Bezirke 2018 – 2030 (Stand 10.12.2019)](https://www.demografie-portal.de/DE/Publikationen/2019/bevoelkerungsprognose-fuer-berlin-und-die-Bezirke-2018-2030.pdf?__blob=publicationFile&v=1)
 
-[Bevölkerungsprognose für Berlin und die Bezirke2015-2030 (Stand 25.01.2016)](https://digital.zlb.de/viewer/api/v1/records/34383995_2015_2030/files/media/Bericht_Bevprog2015-2030.pdf)
+[Bevölkerungsprognose für Berlin und die Bezirke 2015-2030 (Stand 25.01.2016)](https://digital.zlb.de/viewer/api/v1/records/34383995_2015_2030/files/media/Bericht_Bevprog2015-2030.pdf)
+
+[Bevölkerungsprognose für Berlin und die Bezirke 2011-2030 (Stand Oktober 2012)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://digital.zlb.de/viewer/api/v1/records/15603502_2011-30/files/media/01_bevprog_2011_2030_kurzfassung.pdf&ved=2ahUKEwiA6tyV9fyNAxX9_7sIHZsbAwgQFnoECBYQAQ&usg=AOvVaw2MKop_x6bWNEgPu0xhXuLt)
 
 # Methode
 
