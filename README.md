@@ -17,7 +17,7 @@ Es gibt in Berlin in regelmäßigen Abständen Bevölkerungsprognosen (insgesamt
 [Bevölkerungsprognose für Berlin 1998-2015: Entwicklung der Bevölkerung in Berlin und in den Bezirken (Stand Januar 2001) - NUR Quelle gefunden](https://www.researchgate.net/publication/309784562_Bevolkerungsprognose_fur_Berlin_1998-2015_Entwicklung_der_Bevolkerung_in_Berlin_und_in_den_Bezirken)
 
 
-# Methode
+# Methode - Reality versus Projections
 
 Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und Vergleich mit tatsächlichen Bevölkerungsentwicklungen.
 
