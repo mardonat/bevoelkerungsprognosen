@@ -1,4 +1,4 @@
-# Bevoelkerungsprognosen
+# Bevoelkerungsprognosen - Reality versus Projections
 Es gibt in Berlin in regelmäßigen Abständen Bevölkerungsprognosen (insgesamt 8 bisher) durch den Senat. Sie sind unerlässlich für die Stadtplanung und -entwicklung. Sie werden als Grundlage für die mittel- und langfristige Planung von Schulplatzversorgung und die Prognose der Schülerzahlentwicklung genutzt. Doch wie genau sind die Modelle und wie genau konnten die Prognosen die Zukunft vohersagen? Kommt es aufgrund von ungenauen Modellen und Kriesen (2015, Ukraine, ..) nicht eher zu dynamischen Bevölkerungsentwicklungen?
 
 # Datengrundlagen
@@ -17,7 +17,7 @@ Es gibt in Berlin in regelmäßigen Abständen Bevölkerungsprognosen (insgesamt
 [Bevölkerungsprognose für Berlin 1998-2015: Entwicklung der Bevölkerung in Berlin und in den Bezirken (Stand Januar 2001) - NUR Quelle gefunden](https://www.researchgate.net/publication/309784562_Bevolkerungsprognose_fur_Berlin_1998-2015_Entwicklung_der_Bevolkerung_in_Berlin_und_in_den_Bezirken)
 
 
-# Methode - Reality versus Projections
+# Methode 
 
 Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und Vergleich mit tatsächlichen Bevölkerungsentwicklungen.
 
