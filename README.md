@@ -29,7 +29,7 @@ Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und 
 
 [2] [Schriftliche Anfrage Nr. 19/16367: Neuer Glanz für alte Hütten? - Stillgelegte Schulgebäude in Berlin, 2023](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-16367.pdf)
 
-[3] [Der Senat von Berlin; 2024: "Aktueller Sachstand Berliner Schulbauoffensive (BSO)"]([https://berlin.de/schulbau/_assets/service/downloadcenter/berichte-beschluesse/2024-bericht-sachstand-bso.pdf)
+[3] [Der Senat von Berlin; 2024: "Aktueller Sachstand Berliner Schulbauoffensive (BSO)"](https://berlin.de/schulbau/_assets/service/downloadcenter/berichte-beschluesse/2024-bericht-sachstand-bso.pdf)
 
 [4] [Ehlert, 2019: "Bevölkerungsprognose für Berlin und die Bezirke 2015 bis 2030"; Zeitschrift für amtliche Statistik Berlin Brandenburg 4](https://download.statistik-berlin-brandenburg.de/5bf355e1a1c6f379/6be4c820e27b/hz_201904-02.pdf)
 
