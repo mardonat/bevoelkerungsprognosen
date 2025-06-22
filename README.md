@@ -31,7 +31,7 @@ Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und 
 
 [3] [Der Senat von Berlin; 2024: "Aktueller Sachstand Berliner Schulbauoffensive (BSO)"](www.berlin.de/schulbau/_assets/service/downloadcenter/berichte-beschluesse/2024-bericht-sachstand-bso.pdf)
 
-[4] [Ehlert, 2019: "Bevölkerungsprognose für Berlin und die Bezirke 2015 bis 2030"; Zeitschrift für amtliche Statistik Berlin Brandenburg 4] (https://download.statistik-berlin-brandenburg.de/5bf355e1a1c6f379/6be4c820e27b/hz_201904-02.pdf)
+[4] [Ehlert, 2019: "Bevölkerungsprognose für Berlin und die Bezirke 2015 bis 2030"; Zeitschrift für amtliche Statistik Berlin Brandenburg 4](https://download.statistik-berlin-brandenburg.de/5bf355e1a1c6f379/6be4c820e27b/hz_201904-02.pdf)
 
 [5] [Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, abgerufen am 22.06.2025, 21:06 Uhr] (https://www.berlin.de/sen/sbw/stadtdaten/stadtwissen/bevoelkerungsprognose-2021-2040/)
 
