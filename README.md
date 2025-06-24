@@ -13,8 +13,8 @@ Daten für die Bevölkerungsgruppe "0 - unter 18 J." wurden asl Summe berechnet 
 
 # Ergebnisse
 
-![alt text]([http://url/to/img.png](https://github.com/mardonat/bevoelkerungsprognosen/blob/main/bev%C3%B6lkerungsprognosen_und_realentwicklung.png))
 
+![alt text](https://github.com/mardonat/bevoelkerungsprognosen/blob/main/bev%C3%B6lkerungsprognosen_und_realentwicklung.png?raw=true)
 
 # Datengrundlagen
 [8. Bevölkerungsprognose für Berlin und die Bezirke 2021 – 2040 (Stand 13.12.2022)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.berlin.de/sen/sbw/_assets/stadtdaten/stadtwissen/bevoelkerungsprognose-2021-2040/bericht_bevoelkerungsprognose_2021-2040.pdf&ved=2ahUKEwiNjvv27fyNAxWcBNsEHQRTNwAQFnoECBwQAQ&usg=AOvVaw1ij2qN3eroAbL0Byaj3Yv4)
