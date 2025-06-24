@@ -6,6 +6,16 @@ Die Senatsverwaltung für Bildung, Jugend und Familie Berlin veröffentlich jäh
 
 
 
+# Methode 
+
+Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen (siehe Datengrundlagen) und Vergleich mit tatsächlichen Bevölkerungsentwicklungen [7].
+Daten für die Bevölkerungsgruppe "0 - unter 18 J." wurden asl Summe berechnet aus de Gruppen "0 - unter 6" und "6 - unter 18" berechnet, da in der Bevölkerungsprognose von 2014 die Differenzierung dieser beiden Gruppen fehlt.
+
+# Ergebnisse
+
+
+
+
 # Datengrundlagen
 [8. Bevölkerungsprognose für Berlin und die Bezirke 2021 – 2040 (Stand 13.12.2022)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.berlin.de/sen/sbw/_assets/stadtdaten/stadtwissen/bevoelkerungsprognose-2021-2040/bericht_bevoelkerungsprognose_2021-2040.pdf&ved=2ahUKEwiNjvv27fyNAxWcBNsEHQRTNwAQFnoECBwQAQ&usg=AOvVaw1ij2qN3eroAbL0Byaj3Yv4)
 
@@ -22,10 +32,6 @@ Die Senatsverwaltung für Bildung, Jugend und Familie Berlin veröffentlich jäh
 [Bevölkerungsprognose für Berlin 1998-2015: Entwicklung der Bevölkerung in Berlin und in den Bezirken (Stand Januar 2001) - NUR Quellennamen gefunden](https://www.researchgate.net/publication/309784562_Bevolkerungsprognose_fur_Berlin_1998-2015_Entwicklung_der_Bevolkerung_in_Berlin_und_in_den_Bezirken)
 
 
-# Methode 
-
-Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und Vergleich mit tatsächlichen Bevölkerungsentwicklungen.
-
 # Quellen
 
 [1] [Mündliche Anfrage DS/1195/VI: Schulplätze auf dem SEZ-Gelände, 2024](https://bvv-friedrichshain-kreuzberg.berlin.de/pi-r/do027.asp?DOLFDNR=390724&options=64)
@@ -40,4 +46,5 @@ Extraktion der Modellergebnisse aus den historischen Bevölkerungsprognosen und 
 
 [6] [Senatsverwaltung für Bildung, Jugend und Familie Berlin, Referat I C, 2025: Saldo der IST-Schülerzahlen und der prognostizierten Schülerzahlen nach Schuljahren an öffentlichen allgemeinbildenden Schulen in %](https://www.bildungsstatistik-berlin.de/p1/dac/pdf/MR_2025_Ergebnisse.pdf)
 
+[7] [Statistik Berlin Brandenburg, 2024: Lange Zeitreihen - Melderechtlich registrierte Einwohner am Ort der Hauptwohung nach Alter und Geschlecht 1991 bis 2024](https://www.statistik-berlin-brandenburg.de/meine-region/berlin-statistik/einwohnerbestand)
 
