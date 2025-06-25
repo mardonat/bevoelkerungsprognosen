@@ -18,7 +18,7 @@ Daten für die Bevölkerungsgruppe "0 - unter 18 J." wurden als Summe aus den Gr
 Fig.1: Prognosezahlen der Altersgruppe (0 - unter 18 J.) der jeweiligen Bevölkerungsprognosen  sowie die Realentwicklung seit dem Jahr 2000.
 
 
-Die Prognosemodelle der Bevölkerungsprognosen (3. bis 8.) konnten kurzfristige Entwicklubgen gut vorhersagen. Bei mittel- und langfristigen Prognosen ist eine große Differenz zu erkennen. Die Unterschiede betragen bei der 5. und 6. Bevölkerungsprognose für eine 10 jahres Vorhersage Unterschiede um über 25000 bis 50000 Personen der Altersgruppe "0 - unter 18 J.". 
+Die Prognosemodelle der Bevölkerungsprognosen (3. bis 8.) konnten kurzfristige Entwicklungen gut vorhersagen. Bei mittel- und langfristigen Prognosen ist eine große Differenz zu erkennen. Die Unterschiede betragen bei der 5. und 6. Bevölkerungsprognose für eine 10-Jahres-Prognose Unterschiede um 25000 bis 50000 Personen der Altersgruppe "0 - unter 18 J.". 
 
 
 # Datengrundlagen
