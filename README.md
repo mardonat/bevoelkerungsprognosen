@@ -14,7 +14,8 @@ Daten für die Bevölkerungsgruppe "0 - unter 18 J." wurden als Summe aus den Gr
 # Ergebnisse
 
 
-![alt text](https://github.com/mardonat/bevoelkerungsprognosen/blob/main/bev%C3%B6lkerungsprognosen_und_realentwicklung.png?raw=true)
+<img src="https://github.com/mardonat/bevoelkerungsprognosen/blob/main/bev%C3%B6lkerungsprognosen_und_realentwickluing.png" width="200" />
+
 Fig.1: Prognosezahlen der Altersgruppe (0 - unter 18 J.) der jeweiligen Bevölkerungsprognosen  sowie die Realentwicklung seit dem Jahr 2000.
 
 
