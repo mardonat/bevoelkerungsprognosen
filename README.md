@@ -19,11 +19,11 @@ Daten für die Bevölkerungsgruppe "0 - unter 18 J." wurden als Summe aus den Gr
 Fig.1: Prognosezahlen der Altersgruppe (0 - unter 18 J.) der jeweiligen Bevölkerungsprognosen  sowie die Realentwicklung seit dem Jahr 2000.
 
 
-Die Prognosemodelle der Bevölkerungsprognosen (3. bis 8.) konnten kurzfristige Entwicklungen gut vorhersagen. Die Differenz der Vorhersage zu der Realentwicklung betrug für alle Prognosen von 2000 bis 2021 für rund 5 Jahre sowie der Altersgruppe "0 - unter 18 J." plus/minus 5%. Bei mittel- und langfristigen Prognosen ist eine große Differenz zu erkennen, welche beispielsweise in der Prognose mit dem Basisjahr 2007 und nach 7.5 Jahren scon im zweistelligen negativen bereich liegt(Fig.2).  
+Die Prognosemodelle der Bevölkerungsprognosen (3. bis 8.) konnten kurzfristige Entwicklungen gut vorhersagen. Die Differenz der Vorhersage zu der Realentwicklung betrug für alle Prognosen von 2000 bis 2021 für rund 5 Jahre sowie der Altersgruppe "0 - unter 18 J." plus/minus 5%. Bei mittel- und langfristigen Prognosen ist eine große Differenz zu erkennen, welche beispielsweise in der Prognose mit dem Basisjahr 2007 und nach 7.5 Jahren scon im zweistelligen negativen bereich liegt (Fig.2).  
 
 <img src="https://github.com/mardonat/bevoelkerungsprognosen/blob/main/bev%C3%B6lkerungsprognosen_und_realentwickluing_prozent.png" width="600" />
 
-Fig.1: Differnez der Bevölkerungsprognosen und der Altersgruppe (0 - unter 18 J.) zur Realentwicklung in Jahren nach der Veröffentlichung der Bevölkerungsprognosen.
+Fig.2: Differnez der Bevölkerungsprognosen und der Altersgruppe (0 - unter 18 J.) zur Realentwicklung in Jahren nach der Veröffentlichung der Bevölkerungsprognosen.
 
 
 # Datengrundlagen
